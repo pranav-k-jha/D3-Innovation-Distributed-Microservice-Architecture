@@ -1,5 +1,7 @@
 # Distributed-System-for-Ski-Sports-Industry
 
+This project focuses on developing a distributed system for the digitalization of the ski industry. The system uses RFID lift ticket readers to record the time of the ski ride and the skier's ID at participating ski resorts. The data collected from the resorts will be analyzed to answer questions such as the most heavily used lifts, the skiers who ride the most lifts, and the average number of lifts skiers ride per day. The server side uses a Java Servlet hosted on a Web server such as Tomcat or Jetty. A multithreaded Java client will be built to upload 10K lift ride events to the server as quickly as possible. The client will generate lift ride events with random parameters and handle errors if any 5XX or 4XX response codes are received. On completion, the programs will print out the number of successful requests, run time, and throughput. The performance will be profiled and analyzed, including mean and median response time, 99th percentile response time, and standard deviation.
+
 ### Import To Eclipse Java EE Edition
 
 1. Download the zip of this repo and unzip it.
