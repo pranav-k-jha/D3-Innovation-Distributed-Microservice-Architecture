@@ -1,0 +1,5 @@
+org/example/model/Resort.class
+org/example/model/LiftRideEvent.class
+org/example/model/LiftRide.class
+org/example/controller/SkierServlet.class
+org/example/EmbeddingJettyStarter.class
