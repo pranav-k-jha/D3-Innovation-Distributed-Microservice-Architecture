@@ -1,3 +1,14 @@
+
+**Project Description:**
+
+This project centers around the creation of a distributed system aimed at digitalizing the sports industry. It involves the aggregation of lift-ride data from various resorts spread geographically. The collected data is subsequently utilized for data analysis purposes, aiding in tasks such as identifying the most frequently used lifts and the skiers who engage with them the most. To accomplish this, the project necessitates the implementation of a server-side API along with the construction of a multithreaded Java client responsible for sending POST requests to the server.
+
+The Java client is designed to generate a substantial volume of POST requests, approximately 10,000 in number. This client also incorporates error-handling mechanisms, with requests being retried up to five times before being classified as failed requests.
+
+Additionally, the project entails performance profiling through the calculation of various metrics, including mean and median response times, throughput, and p99 response time.
+
+**Keywords:** Client-server architecture, Multi-threaded Java client, HTTP protocol, Error handling, Concurrency
+
 #### Create VM Instance on Oracle Cloud
 
 To use the oracle cloud, you will need to register a free account. And select your home region (to me, here is the Canada Southeast (Montreal) - Home RegionRegion Identifier: ca-montreal-1).
