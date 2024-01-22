@@ -1,13 +1,45 @@
+# Sports Industry Digitalization Project
 
-**Project Description:**
+## Project Description
 
-This project centers around the creation of a distributed system aimed at digitalizing the sports industry. It involves the aggregation of lift-ride data from various resorts spread geographically. The collected data is subsequently utilized for data analysis purposes, aiding in tasks such as identifying the most frequently used lifts and the skiers who engage with them the most. To accomplish this, the project necessitates the implementation of a server-side API along with the construction of a multithreaded Java client responsible for sending POST requests to the server.
+The Sports Industry Digitalization Project is a comprehensive initiative focused on creating a distributed system tailored to the unique needs of the sports industry. The primary objective is to digitalize and analyze lift-ride data obtained from multiple resorts across different geographical locations.
 
-The Java client is designed to generate a substantial volume of POST requests, approximately 10,000 in number. This client also incorporates error-handling mechanisms, with requests being retried up to five times before being classified as failed requests.
+### Key Features
 
-Additionally, the project entails performance profiling through the calculation of various metrics, including mean and median response times, throughput, and p99 response time.
+1. **Data Aggregation:**
+   - The project involves the seamless aggregation of lift-ride data from diverse resorts.
 
-**Keywords:** Client-server architecture, Multi-threaded Java client, HTTP protocol, Error handling, Concurrency
+2. **Data Analysis:**
+   - Utilization of collected data for in-depth analysis, including the identification of frequently used lifts and the skiers who engage with them the most.
+
+3. **Server-Side API:**
+   - Implementation of a robust server-side API to handle incoming data and facilitate seamless communication between clients and the server.
+
+4. **Multi-threaded Java Client:**
+   - Construction of a high-performance, multithreaded Java client responsible for generating approximately 10,000 POST requests to the server.
+
+5. **Error Handling:**
+   - Incorporation of effective error-handling mechanisms in the Java client, allowing requests to be retried up to five times before being classified as failed.
+
+6. **Performance Profiling:**
+   - Detailed performance profiling, including the calculation of metrics such as mean and median response times, throughput, and p99 response time.
+
+## Project Components
+
+- **Server-Side API:** Handles incoming data, ensures data integrity, and facilitates communication with clients.
+
+- **Multi-threaded Java Client:** Generates a substantial volume of POST requests, incorporating error-handling mechanisms for robustness.
+
+## Keywords
+
+- Client-Server Architecture
+- Multi-threaded Java Client
+- HTTP Protocol
+- Error Handling
+- Concurrency
+
+Feel free to explore and contribute to the advancement of digitalization in the sports industry with this exciting project!
+
 
 #### Create VM Instance on Oracle Cloud
 
