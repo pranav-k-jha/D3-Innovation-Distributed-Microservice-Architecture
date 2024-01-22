@@ -1,5 +1,5 @@
 # Sports Industry Digitalization Project
-Description
+
 ## Digitalize and analyze lift-ride data from resorts globally.
 
 
