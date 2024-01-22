@@ -1,10 +1,11 @@
 # Sports Industry Digitalization Project
+DESCRIPTION
 The Sports Industry Digitalization Project is a comprehensive initiative focused on creating a distributed system tailored to the unique needs of the sports industry. The primary objective is to digitalize and analyze lift-ride data obtained from multiple resorts across different geographical locations.
 
 ### Key Features
 
 1. **Data Aggregation:**
-   - The project involves the seamless aggregation of lift-ride data from diverse resorts.
+   - The project involves the seamless aggregation of lift-ride data from resorts spread geographically.
 
 2. **Data Analysis:**
    - Utilization of collected data for in-depth analysis, including the identification of frequently used lifts and the skiers who engage with them the most.
