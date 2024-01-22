@@ -1,5 +1,7 @@
 # Sports Industry Digitalization Project
-DESCRIPTION
+
+**Objective:** Digitalize and analyze lift-ride data from resorts globally.
+
 
 The Sports Industry Digitalization Project is a comprehensive initiative focused on creating a distributed system tailored to the unique needs of the sports industry. The primary objective is to digitalize and analyze lift-ride data obtained from multiple resorts across different geographical locations.
 
