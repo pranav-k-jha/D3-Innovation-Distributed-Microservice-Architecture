@@ -1,5 +1,5 @@
 # Sports Industry Digitalization Project
-Digitalize and analyze lift-ride data from resorts globally.
+## Digitalize and analyze lift-ride data from resorts globally.
 
 
 The Sports Industry Digitalization Project is a comprehensive initiative focused on creating a distributed system tailored to the unique needs of the sports industry. The primary objective is to digitalize and analyze lift-ride data obtained from multiple resorts across different geographical locations.
@@ -26,7 +26,7 @@ The Sports Industry Digitalization Project is a comprehensive initiative focused
 
 ## Project Components
 
-- **Server-Side API:** Handles incoming data, ensures data integrity, and facilitates communication with clients.
+- **Server-Side API:** Handles incoming data, ensures data integrity and facilitates communication with clients.
 
 - **Multi-threaded Java Client:** Generates a substantial volume of POST requests, incorporating error-handling mechanisms for robustness.
 
@@ -43,7 +43,7 @@ Feel free to explore and contribute to the advancement of digitalization in the 
 
 #### Create VM Instance on Oracle Cloud
 
-To use the oracle cloud, you will need to register a free account. And select your home region (to me, here is the Canada Southeast (Montreal) - Home RegionRegion Identifier: ca-montreal-1).
+To use the Oracle Cloud, you will need to register a free account. And select your home region (to me, here is the Canada Southeast (Montreal) - Home RegionRegion Identifier: ca-montreal-1).
 
 Then you go to the Launch resources, and select **Create a VM instance**:
 
